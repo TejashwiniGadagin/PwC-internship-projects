@@ -1,7 +1,7 @@
 # PwC Switzerland Power BI in Data Analytics Virtual Case Experience
 
-I have successfully completed PwC Switzerland Power BI in Data Analytics Virtual Case Experience program offerred by Forage 
-[www.theforage.com](https://www.theforage.com/virtual-internships/a87GpgE6tiku7q3gu?ref=dt7P3337ZJZQW25rS)
+I have successfully completed PwC Switzerland Power BI in Data Analytics Virtual Case Experience program offerred by Forage . Follow the link below for Case study details 
+[Link](https://www.theforage.com/virtual-internships/a87GpgE6tiku7q3gu?ref=dt7P3337ZJZQW25rS)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
