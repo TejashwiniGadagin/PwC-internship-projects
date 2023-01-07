@@ -19,7 +19,7 @@ This virtual program is divided into 4 modules . you are entitled to receive com
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ###########Dashboard Snapshot
-!
+!( )
 
 ###### Task 3: The Retention Manager from the telecom reaches out to the engagement partner at PwC with his concerns on customer Churn analysis done by them in excel and wants PwC data analytics team to Define proper KPIs,Create a dashboard for the retention manager reflecting the KPIs for preventing customer churn .The engagement manager at PwC has asked me to Write a short email to him explaining my findings, and include suggestions as to what needs to be changed
 
