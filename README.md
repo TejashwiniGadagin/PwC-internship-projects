@@ -18,9 +18,6 @@ This virtual program is divided into 4 modules . you are entitled to receive com
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-###########Dashboard Snapshot
-!( )
-
 ###### Task 3: The Retention Manager from the telecom reaches out to the engagement partner at PwC with his concerns on customer Churn analysis done by them in excel and wants PwC data analytics team to Define proper KPIs,Create a dashboard for the retention manager reflecting the KPIs for preventing customer churn .The engagement manager at PwC has asked me to Write a short email to him explaining my findings, and include suggestions as to what needs to be changed
 
 ###### Task 4: Human Resources at  telecom client PhoneNow have been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They are  reaching out to us for help. Therefore as a Data analsyst at Pwc i was assisgned the followed tasks 
