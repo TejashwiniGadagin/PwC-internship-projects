@@ -22,8 +22,9 @@ This virtual program is divided into 4 modules . you are entitled to receive com
 
 ###### Task 4: Human Resources at  telecom client PhoneNow have been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They are  reaching out to us for help. Therefore as a Data analsyst at Pwc i was assisgned the followed tasks 
 
-Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
-Write what you think some root causes of their slow progress might be. 
+1.Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+2.Write what you think some root causes of their slow progress might be. 
+
 To begin with calculate the following measures to define proper KPIs:
 * number of men
 * number  of women
